@@ -1,0 +1,16 @@
+﻿* text=auto
+*.ps1  text eol=crlf
+*.bat  text eol=crlf
+*.sh   text eol=lf
+*.m    text eol=lf linguist-language=MATLAB
+*.mlx  text eol=lf
+*.mdl  text eol=lf
+*.slx  binary
+*.mat  binary
+*.fig  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.bmp  binary
+*.gif  binary
+*.pdf  binary
